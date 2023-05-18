@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science.
-- 🌱 &nbsp; Currently taking a Python and an advanced Javascript course.
+- 🌱 &nbsp; Currently taking a Python course.
 - 👯 &nbsp; Looking for a Software Engineering Internship.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
